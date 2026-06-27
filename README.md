@@ -10,6 +10,8 @@ spatio-temporal attention graph (HEIGHT / AttnGraph-style). The learned 4×4
 class-pair field is directly interpretable: it recovers the road-user dominance
 hierarchy **truck > car > bicycle > pedestrian** purely from naturalistic data.
 
+![methodology](/assets/socialfield_graph_methodology.png)
+
 ## Environment
 Use the base anaconda interpreter (torch 2.11 + CUDA, torch_geometric):
 `C:\Users\yourPCname\anaconda3\python.exe`. Run all commands from the repo root so `import tracks_import` resolves.
