@@ -12,7 +12,7 @@ hierarchy **truck > car > bicycle > pedestrian** purely from naturalistic data.
 
 ## Environment
 Use the base anaconda interpreter (torch 2.11 + CUDA, torch_geometric):
-`C:\Users\ymshu\anaconda3\python.exe`. Run all commands from the repo root
+`C:\Users\yourPCname\anaconda3\python.exe`. Run all commands from the repo root
 `C:\DREAM_final` so `import tracks_import` resolves.
 
 ## Pipeline
