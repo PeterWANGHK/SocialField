@@ -17,7 +17,7 @@ Use the base anaconda interpreter (torch 2.11 + CUDA, torch_geometric):
 
 ## Pipeline
 ```bash
-PY="C:/Users/ymshu/anaconda3/python.exe"
+PY="C:/Users/yourPCname/anaconda3/python.exe"
 
 # 1. Data — extract multi-class (obs=8 / pred=12 @ 2.5 Hz) windows
 $PY -m SocialFieldGraph.data.extract_windows --dataset uniD --recording 0
